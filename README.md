@@ -6,5 +6,5 @@ The objective is to fill a 9*9 grid with digits so that each column and each row
 The game has four different difficulty levels, and each level comes with 10 distinct board patterns. 
 
 
-The game was built with C++, Obj-C on Xcode. This game is the final project for my CS250 class at Cañada College in 2018
-[Class Website](https://catalog.canadacollege.edu/current/courses/computer-science/cis-250.php)
+The game was built with C++, Obj-C on Xcode. This game is the final project for my 
+[CS250 at Cañada College](https://catalog.canadacollege.edu/current/courses/computer-science/cis-250.php) in 2018
