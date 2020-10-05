@@ -7,5 +7,4 @@ The game has four different difficulty levels, and each level comes with 10 dist
 
 
 The game was built with C++, Obj-C on Xcode. This game is the final project for my CS250 class at Cañada College in 2018
-
-Class website : https://catalog.canadacollege.edu/current/courses/computer-science/cis-250.php
+[Class Website](https://catalog.canadacollege.edu/current/courses/computer-science/cis-250.php)
